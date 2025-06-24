@@ -1,10 +1,10 @@
-# 🏥 Hospital Readmission Prediction
+# Hospital Readmission Prediction
 
 This project builds a machine learning pipeline to predict hospital readmissions within 30 days using electronic health record (EHR) data from diabetic patients. The goal is to support early intervention and reduce unnecessary readmissions.
 
 ---
 
-## 📊 Project Summary
+## Project Summary
 
 - Dataset: [UCI Diabetic Readmission Dataset](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 - Records: ~100,000 inpatient encounters
@@ -12,7 +12,7 @@ This project builds a machine learning pipeline to predict hospital readmissions
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - **Data preprocessing**: missing value handling, feature engineering, label encoding
 - **Class imbalance handling**: SMOTE (Synthetic Minority Over-sampling Technique)
